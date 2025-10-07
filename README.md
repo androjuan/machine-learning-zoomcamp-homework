@@ -1,3 +1,3 @@
 # machine-learning-zoomcamp-homework
 
-Hello world
+Excercises from Zoomcamp Machine Learning
